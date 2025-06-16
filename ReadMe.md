@@ -83,6 +83,10 @@ The smoothed prediction is updated dynamically, offering a window into the userâ
 You can view our original hackathon pitch deck here:  
 [ðŸ“ŽHackathon Presentation (PDF)](./docs/ForeSight_Pitch.pdf)
 
+Demonstration Video:
+https://drive.google.com/file/d/1aNi_OfguBeMhcSSMRtJUYFPyQvNs8q-T/view?usp=drive_link
+
+
 ## Team
 
 Developed during a neuroscience hackathon by:
