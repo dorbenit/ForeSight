@@ -92,7 +92,7 @@ https://drive.google.com/file/d/1aNi_OfguBeMhcSSMRtJUYFPyQvNs8q-T/view?usp=drive
 Developed during a neuroscience hackathon by:
 
 * Dor Benita
-* Moran Shavit
+* Moran Shavit 
 * Yoav Evron
 * Oran Kedem
 * Idan Schreiber
